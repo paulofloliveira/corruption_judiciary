@@ -1,9 +1,9 @@
 # Repositório da Tese de Doutorado
 
-## Universidade Federal de Pernamubuco
-## Centro de Ciências Jurídicas
+### Universidade Federal de Pernamubuco
+### Centro de Ciências Jurídicas
 
-## Paulo Fernando de Lima Oliveira
+### Paulo Fernando de Lima Oliveira
 
 
 
